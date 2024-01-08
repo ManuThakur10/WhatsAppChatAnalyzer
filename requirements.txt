@@ -1,5 +1,8 @@
-URLExtract
+urlextract
 streamlit
 pandas
 emoji
 seaborn
+wordcloud
+re
+matplotlib.pyplot
