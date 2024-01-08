@@ -4,5 +4,4 @@ pandas
 emoji
 seaborn
 wordcloud
-re
-matplotlib.pyplot
+matplotlib
