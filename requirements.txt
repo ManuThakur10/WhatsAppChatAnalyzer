@@ -1,7 +1,5 @@
-urlextract
+URLExtract
 streamlit
 pandas
-numpy
 emoji
-re
 seaborn
